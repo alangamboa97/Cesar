@@ -17,6 +17,7 @@ int main(int argc, char *argv[]){
 		palabra[i]=0;
 	}
 	for(filas=0;filas<15;filas++){
+	
 				for(columnas=0;columnas<100;columnas++){
 					almacenamiento_palabras[filas][columnas]=0;
 				}
